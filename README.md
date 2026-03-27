@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Agustín Díaz
 
-<!--
-**AgusDiazDev/AgusDiazDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Analyst** · **Backend developer** · Rosario, Argentina
 
-Here are some ideas to get you started:
+I build and maintain software that runs in production: REST APIs, integrations between systems, and data that stays consistent across sources. I work with workflow automation (**n8n**). My recent roles have also included **AI-related** work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- **Backend & integrations**: REST APIs, business logic, and syncing data across platforms.
+- **Automation**: complex workflows connecting messaging, services, and databases.
+- **Data**: PostgreSQL (plus SQL Server and MySQL), modeling and queries for operational use.
+- **Frontend**: **React**, **TypeScript**, and **JavaScript**; also **Angular** where the stack calls for it.
+
+## Stack
+
+| Area       | Tools                                       |
+| ---------- | ------------------------------------------- |
+| Automation | n8n                                         |
+| Languages  | TypeScript, JavaScript, C#, SQL, HTML, CSS  |
+| Frameworks | React, Angular, .NET Core, Entity Framework |
+| Data       | PostgreSQL, SQL Server, MySQL               |
+| Tooling    | Git, Docker, VS Code, Visual Studio         |
+
+## Education
+
+- **University Systems Analyst** — Universidad Siglo 21 (2025)
+- **Bachelor’s in Computer Science** — in progress (5th year), including OOP, algorithms, software analysis & design, and web development.
+
+## Contact
+
+- **Email:** [agustindiazvigna@gmail.com](mailto:agustindiazvigna@gmail.com)
+- **Location:** Rosario, Santa Fe, Argentina
