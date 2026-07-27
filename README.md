@@ -28,5 +28,5 @@ I build and maintain software that runs in production: REST APIs, integrations b
 
 ## Contact
 
-- **Email:** [agustindiazvigna@gmail.com](mailto:agustindiazvigna@gmail.com)
+- **Email:** [devagusdiaz@gmail.com](mailto:devagusdiaz@gmail.com)
 - **Location:** Rosario, Santa Fe, Argentina
